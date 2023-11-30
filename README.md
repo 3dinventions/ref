@@ -1,5 +1,5 @@
 # ref
-A super simple bash script to create command references
+A super simple bash script to create command references.  I have a hard time remembering commands so I made an easy searchable glossary of commands.  When I come across a command that I often forget, I add it to my reference glossary.  This script allows you to quickly search for command keywords or descriptions.
 
 Usage:
 
