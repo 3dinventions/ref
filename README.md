@@ -4,7 +4,7 @@ A super simple bash script to create command references
 Usage:
 
 Add a future command reference:
-ref a "-sync folders archive,verbose,human: rsync -avh source destination"
+>ref a "-sync folders archive,verbose,human: rsync -avh source destination"
 
 Search repository of references for keyword:
 ref "sync"
